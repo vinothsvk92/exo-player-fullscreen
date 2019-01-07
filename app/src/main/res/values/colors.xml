@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+
+    <color name="colorTrans">#99000000</color>
+
+    <color name="darkSkyBlue">#4a90e2</color>
+
+    <color name="gray">#eeeeee</color>
+
+    <color name="white">#ffffff</color>
+
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+</resources>
